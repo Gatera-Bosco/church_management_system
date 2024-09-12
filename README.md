@@ -1,1 +1,2 @@
 # church_management_system
+#The Church Management System this application it allows church management personnel to handle administrative duties such as managing Bishops, Pastors, Reverends, and Elders (Eleaders). This system facilitates user authentication and the CRUD (Create, Read, Update, Delete) operations on the mentioned roles within the church. The application uses Hibernate ORM for database interactions and RMI (Remote Method Invocation) for remote service handling. 
